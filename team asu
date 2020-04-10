@@ -1,18 +1,11 @@
-# Primary Hosts
 127.0.0.1 localhost
 ::1 localhost
-
-# Block Ads
 0.0.0.1 static.ambient-platform.com
 0.0.0.1 cdn.innity.net
-
-# Bypass Team Asu
 122.248.33.53 platinmods.com
 122.248.33.53 .platinmods.com
 122.248.33.53 decoderhack.com
 122.248.33.53 .decoderhack.com
-
-# BYPASS BANNED CODM
 0.0.0.1 ludashi.com
 0.0.0.1 qos.hk.gcloudcs.com
 0.0.0.1 download.2.1375135419.igame.gcloudcs.com
